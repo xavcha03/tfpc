@@ -1,5 +1,174 @@
-Métier;Trait
-Boulanger;Matinal
-Médecin;Empathique
-Développeur;Curieux
-…;… 
+category;label
+job;Chef·fe de chantier
+job;Maître-nageur(se)
+job;Dresseur(se) de fauves
+job;Ingénieur·e IA
+job;Sommelier(ère)
+job;Testeur·se de toboggans aquatiques
+job;Professeur·e de yoga
+job;Spéléologue
+job;Clown professionnel
+job;Astronaute stagiaire
+job;Guide safari
+job;Chef·fe pâtissier(ère)
+job;Contrôleur·euse aérien·ne
+job;Dompteur·se de drones
+job;Gardien·ne de phare
+job;Influenceur·euse jardinage extrême
+job;Plongeur·euse soudeur sous-marin
+job;Responsable escape-game
+job;Démineur·euse
+job;Chargé·e de reboot serveur nucléaire
+job;Architecte papier
+job;Animateur·ice karaoké
+job;Photographe de tempêtes
+job;Réparateur·ice de robots ménagers
+job;Responsable fromage qui pue
+job;Chasseur·euse d’aurores boréales
+job;Éleveur·euse de lamas
+job;Designer d’odeurs
+job;Magicien·ne close-up
+job;Archiviste de memes
+job;Pilote de montgolfière
+job;Curateur·ice de musée virtuel
+job;Plagiste VIP
+job;Consultant·e procrastination
+job;Peintre sur coquillages
+job;Fact-checker de rumeurs de voisinage
+job;Coach sieste
+job;Conducteur·ice de train miniature
+job;Brasseur·se artisanal·e de kombucha
+job;Gardien·ne de volcan endormi
+trait;Résistance au stress
+trait;Gestion d’équipe
+trait;Sens de l’humour
+trait;Matheux·se
+trait;Créatif·ve
+trait;Maniaque du détail
+trait;Empathique
+trait;Frileux·se
+trait;Tendance à procrastiner
+trait;Ultra ponctuel·le
+trait;Musclé·e
+trait;Souple
+trait;Polyglotte
+trait;Geek assumé·e
+trait;Aime se lever à 5 h
+trait;Déguste tous les fromages
+trait;Craint les hauteurs
+trait;Tellement bavard·e
+trait;Toujours en retard
+trait;A un rire contagieux
+trait;Mémorise les anniversaires
+trait;Dormeur·se profond·e
+trait;Collectionne les timbres
+trait;Adore improviser
+trait;Hacker dans l’âme
+trait;Déteste les emojis
+trait;Joue du ukulélé
+trait;Esprit de compétition
+trait;Oublie les noms
+trait;Fan absolu·e de foot
+trait;Respire la zénitude
+trait;Parle aux plantes
+trait;Aime les classeurs Excel
+trait;Fonce sans réfléchir
+trait;Fait des listes pour tout
+trait;Toujours sarcastique
+trait;Peur des pigeons
+trait;Lit 100 livres/an
+trait;Tendance à dramatiser
+trait;Adore les paillettes
+trait;Jamais sans café
+trait;Gourmet pointilleux
+trait;Fan de karaoké
+trait;Toujours en baskets
+trait;Maitre du dad-joke
+trait;Allergique à l’orage
+trait;Collectionne les mugs
+trait;Accro aux notifs
+trait;Ne regarde jamais de séries
+trait;Fan de science-fiction
+trait;Raconte sa vie en podcast
+trait;Fait du vélo sous la pluie
+trait;Peint des figurines
+trait;Comptes Insta secrets
+trait;Fait pleurer aux mariages
+trait;Panique avec les araignées
+trait;Écrit en capitales
+trait;Planifie ses vacances en janvier
+trait;Ne boit que du thé
+trait;Toujours trop d’onglets ouverts
+trait;Maîtrise la macarena
+trait;Fan de puzzles 5000 pièces
+trait;Oublie son mot de passe
+trait;Rit de ses propres blagues
+trait;Aime les films d’horreur
+trait;Toujours premier·e sur la piste
+trait;Déteste les spoilers
+trait;Parle avec les mains
+trait;Fait des jingles pour tout
+trait;Télécharge les applis météo
+trait;A déjà fait un marathon
+trait;Collectionne les chaussettes
+trait;Adore la déco minimaliste
+trait;Prend des notes manuscrites
+trait;Refuse les spoilers
+trait;Mange épicé
+trait;Peint ses murs en noir
+trait;Fan de jeux rétro
+trait;Écrit de la poésie
+trait;Répond aux emails la nuit
+trait;Adore les brunchs
+trait;Fait des grimaces en selfie
+trait;Parle couramment emoji
+trait;Obsédé·e par la sécurité
+trait;Ajoute “LOL” à l’oral
+trait;Tuto YouTube pour tout
+trait;Étire ses chaussettes
+trait;Lit l’historique Wikipedia
+trait;Chasse les bonnes affaires
+trait;Adore les sudoku
+trait;Peur du vide
+trait;Toujours playlist 80’s
+trait;Utilise jamais de post-it
+trait;Range par couleur
+trait;Critique les fonts
+trait;Chiffre ses messages
+trait;Revient toujours au chocolat
+trait;Change de ringtone chaque semaine
+trait;Joue support dans les MOBA
+trait;Parle en citations
+trait;Adore les escape-rooms
+trait;Insomniaque
+trait;Vit en mode avion
+trait;Change souvent de coupe
+trait;Croit aux ovnis
+trait;Saupoudre de paprika
+trait;Ne rate jamais le dessert
+trait;A déjà cassé une imprimante
+trait;Photographie les nuages
+trait;Twiste les règles
+trait;Se trompe de prénom
+trait;Aime découper le fromage en cubes
+trait;Cache des snacks
+trait;Écoute des podcasts true-crime
+trait;Optimise ses trajets
+trait;Ne part jamais sans deck de cartes
+trait;Applaudit au ciné
+trait;A fait 7 métiers
+trait;Boit l’eau du robinet
+trait;Fait semblant de comprendre
+trait;Collectionne les cartes Pokémon
+trait;S’endort dans le bus
+trait;Aime les chemises hawaïennes
+trait;Utilise 3 agendas
+trait;Fait crisser le stylo
+trait;Signe toujours en violet
+trait;Organise des blind-tests
+trait;Adore les plantes grasses
+trait;Recycle même les blagues
+trait;Chope le micro au karaoké
+trait;Change de fond d’écran tous les jours
+trait;Lit les CGU
+trait;Prend le dernier dessert

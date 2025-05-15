@@ -1,5 +1,12 @@
 # Backlog – "T'es Fait Pour Ça !"
 
+- [ ] Écran accueil + code room
+- [ ] Tirage métier + affichage animé
+- [ ] Vote best/worst (tap court/long)
+- [ ] Flip 3 traits
+- [ ] Score par joueur
+- [ ] Affichage final / screen partageable
+
 | ID | User Story | Priority | Estimate (pts) | Status |
 |----|------------|----------|----------------|--------|
 | US01 | En tant que **joueur**, je **crée une room** depuis l'appli mobile. | High | 3 | ☐ |
