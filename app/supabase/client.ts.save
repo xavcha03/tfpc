@@ -1,0 +1,3 @@
+q
+rm -rf app node_modules package.json package-lock.json .gitignore
+
