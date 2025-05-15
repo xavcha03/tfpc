@@ -83,3 +83,17 @@ npx jest
 
 ## Astuce
 Pour mocker d'autres modules natifs, ajouter un `jest.mock('nom-du-module', ...)` dans `jest.setup.js`. 
+
+# Tests et bonnes pratiques de test
+
+(Ton contenu original est conservé ici)
+
+---
+
+# Résumé des points importants (à ajouter dans le README)
+
+- Centraliser tous les tests dans ce dossier pour une meilleure organisation.
+- Privilégier les tests unitaires pour la logique métier.
+- Utiliser des mocks pour les appels Supabase ou API externes.
+- Documenter chaque stratégie de test ou cas particulier rencontré.
+- Mettre à jour ce fichier à chaque ajout de test ou d'astuce. 
